@@ -1,4 +1,7 @@
-# Ideas for a Compile-to-JavaScript language
+websafe
+=======
+
+Ideas for a typesafe Compile-to-JavaScript language:
 
   * `val` for constant values (maybe `const`?)
   * Type annotations with suffix `: T` notation (typesafety will be added later)
